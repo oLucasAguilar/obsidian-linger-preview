@@ -1,0 +1,10 @@
+{
+  "id": "linger-preview",
+  "name": "Linger Preview",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Rest the pointer on a link for a moment and its preview opens, with no modifier key held.",
+  "author": "Lucas Aguilar",
+  "authorUrl": "https://github.com/oLucasAguilar",
+  "isDesktopOnly": false
+}
